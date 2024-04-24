@@ -1,4 +1,4 @@
-module github.com/weaver-im-framework
+module github.com/8800/framework
 
 go 1.21.0
 
